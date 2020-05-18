@@ -1,0 +1,193 @@
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@300&family=Jockey+One&display=swap');
+
+header {
+    background-color: black;
+}
+
+header {
+    height: 60px !important;
+}
+
+.button {
+    position: relative;
+    margin-top: 10px;
+    height: 40px;
+    background-color: black;
+    border: none;
+    text-decoration: none;
+}
+ 
+.button:hover {
+    background-color: white;
+    color: black;
+}
+
+.button:hover .link {
+    background-color: white;
+    color: black;
+}
+
+.link {
+    color: white;
+    font-family: Jockey One;
+    font-size:120%;
+}
+
+.link:hover {
+    color:black;
+    text-decoration: none;
+}
+
+.fokep {
+    position: relative;
+    width: 100%;
+    display:block;
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.cim {
+    margin-top: 20px;
+    position: relative;
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 40px;
+    margin-right: 32%;
+    margin-left: 32%;
+    font-family: DM Mono;
+    font-size: 30px;
+}
+
+.szoveg {
+    padding-right: 200pt;
+    padding-left: 200pt;
+    text-align: center;
+    position: relative;
+    font-family: DM Mono;
+    font-size: 17px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.bar {
+    background-color: black;
+    height: 40px;
+    margin-top: 20px;
+}
+
+.cim2 {
+    margin-top: 20px;
+    position: relative;
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 40px;
+    margin-right: 39%;
+    margin-left: 39%;
+    font-family: DM Mono;
+    font-size: 30px;
+}
+
+.cim3 {
+    margin-top: 20px;
+    position: relative;
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 40px;
+    margin-right: 37%;
+    margin-left: 37%;
+    font-family: DM Mono;
+    font-size: 30px;
+}
+
+.kep {
+    text-align: center;
+    position: relative;
+}
+
+.cim4 {
+    margin-top: 20px;
+    position: relative;
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 40px;
+    margin-right: 35%;
+    margin-left: 35%;
+    font-family: DM Mono;
+    font-size: 30px;
+}
+
+.kep2 {
+    text-align: center;
+    position: relative;
+    margin-top: 20px;
+}
+
+.cim5 {
+    margin-top: 20px;
+    position: relative;
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 40px;
+    margin-right: 35%;
+    margin-left: 35%;
+    font-family: DM Mono;
+    font-size: 30px;
+}
+
+.cim6 {
+    margin-top: 20px;
+    position: relative;
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 40px;
+    margin-right: 23%;
+    margin-left: 23%;
+    font-family: DM Mono;
+    font-size: 30px;
+}
+
+.cim7 {
+    margin-top: 20px;
+    position: relative;
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 40px;
+    margin-right: 19%;
+    margin-left: 19%;
+    font-family: DM Mono;
+    font-size: 30px;
+}
+
+.cim8 {
+    margin-top: 20px;
+    position: relative;
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 40px;
+    margin-right: 13%;
+    margin-left: 13%;
+    font-family: DM Mono;
+    font-size: 30px;
+}
+
+.cim9 {
+    margin-top: 20px;
+    position: relative;
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 40px;
+    margin-right: 37%;
+    margin-left: 37%;
+    font-family: DM Mono;
+    font-size: 30px;
+}
